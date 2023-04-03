@@ -18,3 +18,11 @@ p{
 li{
 	color: blue;
 }
+
+h2{
+	text-align: center; 
+	font-size: 45px; 
+	color: darkblue; 
+	border: 3px solid darkblue; 
+	padding: 20px;"
+}
