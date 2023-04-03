@@ -13,10 +13,11 @@ ol{
 
 p{
 	text-align: center;
+	color: darkred;
 }
 
 li{
-	color: blue;
+	color: darkblue;
 	font-family: Arial;
 }
 
@@ -26,4 +27,7 @@ h2{
 	color: darkblue; 
 	border: 3px solid darkblue; 
 	padding: 20px;"
+}
+h1{
+	color: darkred;
 }
